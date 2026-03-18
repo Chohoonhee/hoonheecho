@@ -23,9 +23,9 @@ url_pdf: ""
 url_code: ""
 summary: "Event-based 6D object tracking for high-speed, dynamic scenarios."
 tags: ["Event Camera", "6D Object Tracking"]
-featured: false
+featured: true
 reading_time: false
 profile: false
 show_date: false
 ---
-We introduce EventTrack6D, an event-depth tracking framework that generalizes to novel objects without object-specific training by reconstructing both intensity and depth at arbitrary timestamps between depth frames. 
+We introduce Event6D, an event-depth tracking framework that generalizes to novel objects without object-specific training by reconstructing both intensity and depth at arbitrary timestamps between depth frames. 
