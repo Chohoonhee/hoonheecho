@@ -3,7 +3,7 @@ title: "Hoonhee Cho"        # ← 여기!
 first_name: "Hoonhee"
 last_name: "Cho"
 
-role: "Ph.D. Student"
+role: "Post-doctoral Researcher"
 
 
 avatar: "avatar.jpg"
@@ -41,7 +41,12 @@ profiles:
   - Application of Event Camera for Various Tasks  
 
 ## Experience
-I am currently pursuing my Ph.D. at Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Professor Kuk-Jin Yoon.
-- **2022.03 – Present** · Ph.D. student, Robotics, KAIST  
+I am currently a Post-doctoral Researcher at Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Professor Kuk-Jin Yoon.
+
+**Work Experience**
+- **2026.03 – Present** · Post-doctoral Researcher, KAIST (Supervisor: Kuk-Jin Yoon)
+
+**Education**
+- **2022.03 – 2026.02** · Ph.D., Robotics, KAIST  
 - **2020.09 – 2022.02** · M.S., Robotics, KAIST  
 - **2016.03 – 2020.08** · B.S., Mechanical Engineering, KAIST  
