@@ -1,7 +1,7 @@
 ---
 title: "Event6D: Event-based Novel Object 6D Pose Tracking"
 authors:
-  - "Jae-Young Kang*"  
+  - "Jae-Young Kang*"
   - "Hoonhee Cho*"
   - "Taeyeop Lee*"
   - "Minjun Kang"
