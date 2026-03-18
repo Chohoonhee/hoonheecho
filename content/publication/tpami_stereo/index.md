@@ -1,5 +1,5 @@
 ---
-title: "emporal Stereo Matching from Event Cameras via Joint Learning with Stereoscopic Flow"
+title: "Temporal Stereo Matching from Event Cameras via Joint Learning with Stereoscopic Flow"
 authors:
   - "Jae-Young Kang*"
   - "Hoonhee Cho*"
