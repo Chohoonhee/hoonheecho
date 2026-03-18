@@ -116,6 +116,7 @@ sections:
             <li>2025 · International Conference on Computer Vision (ICCV) (Outstanding Reviewers)</li>
             <li>2025 · Conference on Neural Information Processing Systems (NeurIPS) (Top Reviewers)</li>
             <li>2026 · AAAI Conference on Artificial Intelligence (AAAI)</li>
+            <li>2026 · IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
           </ul>
         </div>
 
