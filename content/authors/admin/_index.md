@@ -44,7 +44,7 @@ profiles:
 I am currently a Post-doctoral Researcher at Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Professor Kuk-Jin Yoon.
 
 **Work Experience**
-- **2026.03 – Present** · Post-doctoral Researcher, KAIST (Supervisor: Kuk-Jin Yoon)
+- **2026.03 – Present** · Post-doctoral Researcher, KAIST
 
 **Education**
 - **2022.03 – 2026.02** · Ph.D., Robotics, KAIST  
