@@ -19,8 +19,6 @@ author_notes:
 publication: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026"
 publication_types: ["1"]
 date: 2026-06-03
-url_pdf: ""
-url_code: ""
 summary: "Event-based 6D object tracking for high-speed, dynamic scenarios."
 tags: ["Event Camera", "6D Object Tracking"]
 featured: true
