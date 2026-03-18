@@ -19,11 +19,7 @@ author_notes:
 publication: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026"
 publication_types: ["1"]
 date: 2026-03-18
-image:
-  placement: 3
-  filename: "feature.png"
-  caption: ""
-  focal_point: "Center"
+
 summary: "Multi-modal driving dataset with stereo event, RGB, and thermal cameras, 4D radar, and dual LiDAR, supporting diverse weather and illumination conditions with 2D/3D annotations and unified benchmarks."
 tags: ["Dataset", "Autonomous Driving", "3D Object Detection", "Multimodal", "4D Radar", "Event Camera", "Thermal Camera","LiDAR"]
 featured: true
