@@ -21,7 +21,7 @@ publication_types: ["1"]
 date: 2026-06-03
 url_pdf: ""
 url_code: ""
-summary: "Event-based 6D object tracking for high-speed, dynamic scenarios.”
+summary: "Event-based 6D object tracking for high-speed, dynamic scenarios."
 tags: ["Event Camera", "6D Object Tracking"]
 featured: false
 reading_time: false
