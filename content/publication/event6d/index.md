@@ -18,7 +18,7 @@ author_notes:
   - "Advisor"
 publication: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026"
 publication_types: ["1"]
-date: 2026-06-03
+date: 2026-03-18
 image:
   placement: 3
   filename: "feature.png"
