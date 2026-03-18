@@ -13,7 +13,7 @@ publication_types: ["1"]
 date: 2025-12-01
 summary: "Event-Image Fusion stereo matching method that jointly learns temporal and stereoscopic flow."
 tags: ["Event Camera", "Stereo", "Depth Estimation"]
-featured: false
+featured: true
 reading_time: false
 profile: false
 show_date: false
